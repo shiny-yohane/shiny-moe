@@ -43,3 +43,4 @@ plugins:
 #   - vendor/ruby/
 
 permalink: :title.html
+google_analytics: UA-26414732-4
