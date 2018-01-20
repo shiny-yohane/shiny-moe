@@ -5,6 +5,7 @@ date:   2018-01-07 12:29:29 +0100
 # categories: hatsune_miku
 shiny_img: /assets/maison-hatsune.jpg
 shiny_img_alt: Hatsune Miku - House Of Songs (Maison Hatsune)
+excerpt: Mitchie M and OSTER project new collaboration song
 ---
 
 ![Hatsune Miku - House Of Songs (Maison Hatsune)]({{ "/assets/maison-hatsune.jpg" | absolute_url }})
