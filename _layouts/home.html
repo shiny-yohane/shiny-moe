@@ -17,8 +17,10 @@ layout: default
           {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
           <span class="post-meta">{{ post.date | date: date_format }}</span>
           <h3>
-            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-            <img src="{{ post.shiny_img | absolute_url }}" alt="{{ post.shiny_img_alt }}"></>
+            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}
+              <img src="{{ post.shiny_img | absolute_url }}" alt="{{ post.shiny_img_alt }}" />
+            </a>
+            <h4>{{ post.excerpt }}</h4>
           </h3>
         </li>
       {% endfor %}
