@@ -1,7 +1,12 @@
+{% if page.id %}
 <meta property="og:type" content="article">
 <meta property="og:title" content="{{ page.title }}">
 <meta property="og:url" content="{{ page.url | absolute_url }}">
 <meta property="og:description" content="{{ page.excerpt }}">
-<meta property="og:image" content=" {{ page.shiny_img | absolute_url }}">
-<meta property="og:image:alt" content=" {{ page.shiny_img_alt }}">
-<!-- <meta property="article:author" content=""> -->
+<meta property="og:image" content="{{ page.shiny_img | absolute_url }}">
+<meta property="og:image:alt" content="{{ page.shiny_img_alt }}">
+<meta property="og:image:width" content="740">
+<meta property="og:image:height" content="416">
+<meta property="twitter:site" content="@shiny_moe_">
+<meta property="twitter:creator" content="@shiny_yohane">
+{% endif %}
