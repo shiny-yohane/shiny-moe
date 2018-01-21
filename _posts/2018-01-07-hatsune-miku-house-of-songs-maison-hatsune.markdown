@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Hatsune Miku - House Of Songs (Maison Hatsune)"
-date:   2018-01-07 12:29:29 +0100
+title: "Hatsune Miku - House Of Songs (Maison Hatsune)"
+date: 2018-01-07 12:29:29
 # categories: hatsune_miku
 shiny_img: /assets/maison-hatsune.jpg
 shiny_img_alt: Hatsune Miku - House Of Songs (Maison Hatsune)
