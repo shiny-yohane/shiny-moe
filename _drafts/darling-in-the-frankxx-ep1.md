@@ -15,6 +15,8 @@ The day has finally come, the new much anticipated co-production between Trigger
 ### Summary
 The episode open up with a mysterious red-skinned girl (which I guess is Zero Two) telling about the story of the Jian, a legendary bird who cannot fly if not paired with a companion. She have an ankle bracelet with a bar code. Is she some sort of specimen escaped from a laboratory or something? She's wounded.
 
+Zero Two arrives to the Plantation with 
+
 After a couple of scenes we get introduced to 016 (also known as Hiro). He's the male protagonist. A boy who failed the test to become a Franxx pilot. A Franxx is revealed to be a giant robot who need to be piloted by a pair of boy and girl. Hiro and his partner [insert partner name here] failed the test and now they have to go back to their orphanage. Except that Hiro is mysteriously granted the privilege to stay in the Plantation even if he can't ride the Franxx.
 
 Rumors about Zero Two spread fast around the Plantation. According to the rumors every partner she ever had died after that third time piloting the Franxx with her.
@@ -34,11 +36,14 @@ At the end Hiro is confused but happy because he managed to ride a Franxx.
 - Franxx pilots are called Parasytes.
 - Male Franxx pilots are also called .
 - Female Franxx pilots are also called .
+- Zero Two's Franxx is called [Strelitzia](https://en.wikipedia.org/wiki/Strelitzia){:target="_blank"}.
 - Who are APE?
+- Who is Daddy?
 - What are the [Caccosaur]?
 - Who created the [Caccosaur]?
 - Why the [Caccosaur] attack mankind?
 - Is revealed that Zero Two has [Caccosaur] blood.
+- [Caccosaurs] have many types. This episode was of type ...
 
 ### Open Questions
 - Who are APE?
@@ -46,9 +51,12 @@ At the end Hiro is confused but happy because he managed to ride a Franxx.
 - Who created the [Caccosaur]?
 - Why the [Caccosaur] attack mankind?
 - Why does Zero Two have [Caccosaur] blood? Is she some kind of experiment?
+- What is that weird yellow container that dropped from the [Caccosaur]? And the shattered glass sphere?
+- According the rumors Zero Two kills her partners. Is that true? Why does she does it?
+- What's going on between Hiro and Ichigo? Something meaninful or just some tsundere and protag clicke stuff?
 
 ### Closing Thoughts
-I liked this first episode even if had way more clicke in it (Whiny male protag with apparently hidden powers, misterious beautiful female who is instanlyy interestend in the protag and she helps him find his true strengths).
+I liked this first episode even if had way more clicke in it for my liking (Whiny male protag with apparently hidden powers, misterious beautiful female who is instanlyy interestend in the protag and she helps him find his true strengths).
 
 Also I'm not really fond of the Franxx design. They look like a weird crossover between Megaman Battle Network and Phantasy Star Only. Expecially when they opened theyr eyes.
 
