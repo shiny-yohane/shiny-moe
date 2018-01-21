@@ -18,7 +18,11 @@ layout: default
           <span class="post-meta">{{ post.date | date: date_format }}</span>
           <h3>
             <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}
+            {% if post.shiny_img %}
               <img src="{{ post.shiny_img | absolute_url }}" alt="{{ post.shiny_img_alt }}" />
+            {% else %}
+              <img src="{{ site.shiny_default_img | absolute_url }}" alt="Shiny.moe" />
+            {% endif %}            
             </a>
             <h4>{{ post.excerpt }}</h4>
           </h3>

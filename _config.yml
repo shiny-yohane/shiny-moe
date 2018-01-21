@@ -46,3 +46,6 @@ permalink: :title
 google_analytics: UA-26414732-4
 livereload: true     # You no longer need to include --livereload
 reload_port: 5678    # If you don't want to use the default port
+
+#shiny custo props
+shiny_default_img: /assets/default.jpg
